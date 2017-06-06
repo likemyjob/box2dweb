@@ -1,0 +1,12 @@
+{
+    "name": "Box2dWeb",
+    "version": "1.0.0",
+    "description": "",
+    "main": "Box2D.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "MIT",
+    "git": "https://github.com/likemyjob/box2dweb.git"
+}
